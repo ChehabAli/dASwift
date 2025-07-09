@@ -1,6 +1,6 @@
 # dASwift
 
-# - iPhone Specifications / Dimensions (portrait)
+# iPhone Specifications / Dimensions (portrait)
 
 iPad Pro 12.9-inch
 
